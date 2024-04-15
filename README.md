@@ -1,9 +1,9 @@
 # bankingapplicationSQA
 
 Download and install MongoDB, compass and nodejs from the below links
-https://www.mongodb.com/try/download/community
-https://www.mongodb.com/try/download/compass
-https://nodejs.org/en/download
+1) https://www.mongodb.com/try/download/community
+2) https://www.mongodb.com/try/download/compass
+3) https://nodejs.org/en/download
 
 Download the project files to your local
 
