@@ -22,8 +22,6 @@ Then after go to the server folder's command prompt and type "npm start"
 Follow the same for the forntend's command prompt
 Go to the frontend folder's command prompt and type "npm start"
 
-If u face an error for config file for bcrypt then type "import bcrypt from 'bcryptjs'" inside the config file which is under src 
-
 Finally, Server will be lauched in a website as localhost
 
 Backend Testing:::
