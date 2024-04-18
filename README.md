@@ -43,5 +43,9 @@ Lets install selenium
 
 type "pip install selenium" in the selenium's command prompt
 To run the selenium test cases
+make sure your both frontend and backend are running if not go to the server folder's command prompt and type "npm start"
+Follow the same for the forntend's command prompt
+Go to the frontend folder's command prompt and type "npm start"
+and then
 type "python main.py"  in the selenium's command prompt
 Then it will start executing the frontend testcases automatically.
